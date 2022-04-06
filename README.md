@@ -19,3 +19,4 @@ Add CalculatorImpl.java and ICalculator.java to your Project
 My Name: Jeremia Ott
 
 - [exercise1](exercise1.md)
+- [exercise2](exercise2.md)
