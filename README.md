@@ -16,7 +16,9 @@ This project contains an the for basic opertions of an calculator.
 Add CalculatorImpl.java and ICalculator.java to your Project
 
 ## More information
-My Name: Jeremia Ott
+My name: Jeremia Ott   
+[My Github](https://github.com/Jeremia-Ott)   
+[My college](https://www.fh-joanneum.at/)
 
 - [exercise1](exercise1.md)
 - [exercise2](exercise2.md)
