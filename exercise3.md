@@ -1,28 +1,22 @@
-# Common git commands
+# Exercise workflow
 
-## git config
-With this command you can edit configuration of your git repository
+## Calculator
+Create Calculator class in a new package "at.fhj.msd".
+Also Implement the class with the four mathe operators
 
-## git init
-Used to make the current folder into an git repository
+## The Main class
+Create a Main class with the main methode.
+Use the Calculator class to implement the main methode.
 
-## git commit
-This you will need to commit things from the staging area 
+## First run
 
-## git status
-This Command show the current untracked files, changed files and staging area
+### Before first run:
+![Project Tree](media/project_tree_before_first_run.png)
+### After first run:
+![Project Tree](media/project_tree_after_first_run.png)   
+Like you can see a new folder was created by maven.
 
-## git add
-Add file to the staging area
 
-## git log
-Shows commit history
-
-## git diff
-This shows diffrence between commits and more
-
-## git pull
-Get a all changes from a remote repository
-
-## git push
-Push your branch to an remote repository
+## Run again
+Do a litle bit of maven things. After that I made a screenshot of running the main methode.
+![Run main](media/run_main.png)
