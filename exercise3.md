@@ -11,12 +11,12 @@ Use the Calculator class to implement the main methode.
 ## First run
 
 ### Before first run:
-![Project Tree](media/project_tree_before_first_run.png)
+![Project Tree](resources/project_tree_before_first_run.png)
 ### After first run:
-![Project Tree](media/project_tree_after_first_run.png)   
+![Project Tree](resources/project_tree_after_first_run.png)   
 Like you can see a new folder was created by maven.
 
 
 ## Run again
 Do a litle bit of maven things. After that I made a screenshot of running the main methode.
-![Run main](media/run_main.png)
+![Run main](resources/run_main.png)
