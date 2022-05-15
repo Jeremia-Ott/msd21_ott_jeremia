@@ -19,4 +19,5 @@ For every methode of Calculator the there is a one simple test and one that test
 
 ### Test coverage
 ![test coverage](resources/ex4_1.png)
+![test coverage](resources/ex4_2.png)
 

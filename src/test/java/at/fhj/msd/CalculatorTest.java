@@ -63,4 +63,22 @@ public class CalculatorTest {
         var result = value1 * value2;
         Assertions.assertEquals(result, calculator.multiply(value1, value2));
     }
+
+    @Test
+    public void simpleFacultyTest(){
+        Assertions.assertEquals(6, calculator.faculty(3));
+    }
+
+    @Test
+    public void baseCasesFacultyTest(){
+        Assertions.assertEquals(1, calculator.faculty(0));
+        Assertions.assertEquals(1, calculator.faculty(1));
+    }
+
+    @Test
+    public void negativFacultyTest(){
+        Assertions.assertEquals(0, calculator.faculty(-1));
+        Assertions.assertEquals(0, calculator.faculty(-9));
+    }
+
 }
