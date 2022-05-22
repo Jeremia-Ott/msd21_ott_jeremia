@@ -13,7 +13,8 @@ This project contains an the for basic opertions of an calculator.
 2. Right click root folder in IntelliJ and click Build Calculator-Example
 
 ## How to use
-Add CalculatorImpl.java and ICalculator.java to your Project
+Add Calculator.java to your Project.   
+You can also use the log4j2.xml.template file to create your own config file for the logger.
 
 ## More information
 My name: Jeremia Ott   

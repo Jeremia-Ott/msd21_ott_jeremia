@@ -1,5 +1,8 @@
 *.html
 *.pdf
+*.xml
+
 *.log
+
 .idea
 target

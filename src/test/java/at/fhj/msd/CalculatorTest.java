@@ -52,6 +52,15 @@ public class CalculatorTest {
     }
 
     @Test
+    public void divideByZeroDivideTest() {
+        double value1 = 23;
+        double value2 = 0;
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            calculator.divide(value1, value2);
+        });
+    }
+
+    @Test
     public void simpleMultiplyTest() {
         Assertions.assertEquals(2, calculator.multiply(1, 2));
     }
